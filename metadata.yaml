@@ -1,0 +1,52 @@
+_repo: Sir-Gibbie_2370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: "Sir Gibbie is an 1879 novel by the Scottish author George MacDonald.\
+  \ It is notable for its Doric dialogue, but has been criticised, especially by members\
+  \ of the Scottish Renaissance, for being part of the kailyard movement. Despite\
+  \ this there are far more who claim the book paints a fair view of urban as well\
+  \ as rural life. The book doesn't seem to dwell as long on physical geography as\
+  \ it does on the spiritual geography of the soul.\nMacDonald's editor, Elizabeth\
+  \ Yates wrote of Sir Gibbie, \"It moved me the way books did when, as a child, the\
+  \ great gates of literature began to open and first encounters with noble thoughts\
+  \ and utterances were unspeakably thrilling.\"\nThe book shows a complex cast of\
+  \ characters from all the social levels: from the laird to the homeless, going through\
+  \ a couple of priests, one of them prone to yield to worldly considerations, although\
+  \ he's good enough, or clever enough, not to fall into wickedness; the other merely\
+  \ pompous and self-righteous. The aim of the story is to show that the idea that\
+  \ bad people are the almost inevitable result of unjust social treatment is wrong.\n\
+  Wee Sir Gibbie has all the numbers to become one of the dregs of society: a drunkard\
+  \ father; as a child he gets in a den of assassins; in rags and poverty, he flies\
+  \ away; then he is punished for having done good to others. But he grows to become\
+  \ a Christ-figure, a knight-errant, a wrong-righter.\nIn 1937, the novel was included\
+  \ in an influential list of notable English language literature entitled Literary\
+  \ Taste: How to Form It (second edition).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2370'
+  wikidata: Q7526965
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Highlands (Scotland) -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Child witnesses -- Fiction'
+- !lcsh 'Mute persons -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: Sir Gibbie
+url: http://www.gutenberg.org/ebooks/2370
+wikipedia:
+- https://en.wikipedia.org/wiki/Sir_Gibbie
